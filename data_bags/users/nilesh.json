@@ -1,0 +1,8 @@
+{
+    "id": "nilesh",
+    "ssh_keys": "ssh-dss AAAAB3NzaC1kc3MAAACBANcunES89sbKlIhrtkpnECp7Z4a+BlJHZTHYjBAo/Itw2R4WmuXhbQiEcYdiYR0tZjKmIXzzG5M5wWIzpmvuOaBxThVMKk8Irgu0bzi9eNY/MD+EDTNRhzry8q/IJeh8jDRfSB2exdcMcFAjmiVdKJd5bbql5NkU9uZaxGhV2W8XAAAAFQCVxO/iejN6s/ToaJWfV8IEFaJiqwAAAIAHl3vQcjQ40G+ZLoj8S73fU7/XhX8ushb3fP4ERCFUm54mvkkezUXJGupUgEihZuPNHWZdvjouzD7H1HMf6xLaR/umjzBX3sNhKFwA0I1gFBsxnHEu3QW0JV9ObJdmfz70lm9/y8Cj96T+ErkgRKd7dW7XWeF125cR9yPWmPWsZwAAAIEAvXo9aoAtX9ZS/Z9WmNcdP2IH4/blOnLr8wMDk+r4hUd7nExWFF7ckDwOl5Wlm1iagvUHzkjRHQjyPX9uEs3WAxm7kk6ofnBiFYzfNAGemDgN1D5FkpTeg/cbkYohpr9Zyl9m1N5hV0jBW5faoh/O0KmFInLVi7yIrPHQNjGv/9o= your@email.address",
+    "groups": [ "sysadmin", "dba", "devops" ],
+    "uid": 2001,
+    "shell": "\/bin\/bash"
+}
+
